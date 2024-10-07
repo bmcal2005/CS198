@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Pencil Point Perfection: Vihan's Favorite Pencil Sharpeners</title>
+    <link rel="stylesheet" href="vitamin1(css).css">
   </head>
   <body>
     <h1>Pencil Point Perfection</h1>
@@ -32,7 +33,6 @@
     </main>
     <footer>
       <p>&copy; 2023 Pencil Point Perfection</p>
-      <link rel="stylesheet" href="vitamin1(css).css">
 
     </footer>
   </body>
